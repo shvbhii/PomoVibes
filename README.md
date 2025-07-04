@@ -8,7 +8,7 @@ Welcome to Day 1 of the **#30DaysOfVibeCoding** challenge! PomoVibes is a minima
 
 ---
 
-### 🚀 [**Live Demo on Vercel**](https://pomovibes-demo.vercel.app)
+### 🚀 [**Live Demo on Vercel**](https://pomo-vibes.vercel.app/)
 
 
 
